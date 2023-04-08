@@ -1,2 +1,1 @@
-FROM lockeyteam/lockey-c-d
-EXPOSE 80
+FROM lockeyteam/lockey-c-d:latest
